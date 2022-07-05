@@ -3,6 +3,10 @@ HACKER RANK DIY
 Just a fun project trying to replicate the working of a code editor on
 competitive programming sites ,
 
+Aim was to create a python script that prints out a programming question and takes python code as input and verifies if the answer is correct or not .
+
+
+
 Working :
 
 Two python files are used
@@ -17,4 +21,11 @@ Two python files are used
 
 -   Print output is redirected to variable named output to compare it
     with correct answer using io library .
+
+Features you can add :
+
+- Time complexity checking
+- Multiple test cases 
+- GUI 
+etc.
 
