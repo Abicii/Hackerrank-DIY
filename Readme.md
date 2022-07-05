@@ -21,6 +21,9 @@ Two python files are used
 
 -   Print output is redirected to variable named output to compare it
     with correct answer using io library .
+    
+Outcome :
+Understanding how we can take "input of code" in python script and run them simultaneously.
 
 Features you can add :
 
