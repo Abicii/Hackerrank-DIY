@@ -38,7 +38,7 @@ old_stdout = sys.stdout
 new_stdout = io.StringIO()
 sys.stdout = new_stdout\n""")
 
-file.write("\narr=[2,3,4,5,6,7,8,9,1]\n")
+file.write("\narr=[2,3,4,5,6,7,8,9,1]\nn=9\n")
 file.write(text)
 
 file.write("""\noutput = new_stdout.getvalue()
